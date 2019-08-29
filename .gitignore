@@ -1,0 +1,15 @@
+# General
+
+.cache
+*.swp
+.DS_Store
+__pycache__
+*.pyc
+*.log
+*.retry
+
+# Temp files
+
+*~
+*.swap
+*.swp
